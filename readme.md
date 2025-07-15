@@ -55,5 +55,6 @@ This chatbot simulates a friendly and supportive conversation for individuals go
 ollama pull llama3
 ```
 ### How to install from requirements.txt
-```pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
 ```
